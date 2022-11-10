@@ -1,1 +1,2 @@
 This is the second file made by user2
+This is a different file by user1
